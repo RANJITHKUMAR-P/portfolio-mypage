@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../my-my-portfolio/build"
+		},
+		{
+			"path": "../my-my-portfolio/node_modules"
+		},
+		{
+			"path": "../my-my-portfolio/public"
+		},
+		{
+			"path": "../my-my-portfolio/src"
+		}
+	],
+	"settings": {}
+}

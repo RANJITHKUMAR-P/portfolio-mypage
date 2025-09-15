@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Web/static/css/main.42d57ac4.css",
+    "main.js": "/Portfolio-Web/static/js/main.91f59398.js",
+    "static/media/Screenshot 2025-09-04 001134.png": "/Portfolio-Web/static/media/Screenshot 2025-09-04 001134.c4ea44409af96168969f.png",
+    "static/media/ranjith-resume.jpg": "/Portfolio-Web/static/media/ranjith-resume.521573e66c53ee66a8d7.jpg",
+    "static/media/Screenshot 2025-09-04 000445.png": "/Portfolio-Web/static/media/Screenshot 2025-09-04 000445.1be0cd42675ec9da2ab6.png",
+    "static/media/Screenshot 2025-09-04 000620.png": "/Portfolio-Web/static/media/Screenshot 2025-09-04 000620.baf47b2aea946e5f77c2.png",
+    "static/media/Screenshot 2025-08-20 152021.png": "/Portfolio-Web/static/media/Screenshot 2025-08-20 152021.ee38650b124faebdab78.png",
+    "static/media/Screenshot 2025-09-03 194703.png": "/Portfolio-Web/static/media/Screenshot 2025-09-03 194703.760f45dae19c5cf8128d.png",
+    "static/media/Screenshot 2025-09-04 000747.png": "/Portfolio-Web/static/media/Screenshot 2025-09-04 000747.c41034ad41a013477f3a.png",
+    "index.html": "/Portfolio-Web/index.html",
+    "main.42d57ac4.css.map": "/Portfolio-Web/static/css/main.42d57ac4.css.map",
+    "main.91f59398.js.map": "/Portfolio-Web/static/js/main.91f59398.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42d57ac4.css",
+    "static/js/main.91f59398.js"
+  ]
+}
